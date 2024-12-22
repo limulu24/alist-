@@ -1,6 +1,8 @@
 # alist-毛玻璃美化
 一个重度毛玻璃爱好者的alist美化
+v3可用
 # 自定义头部
+```
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="网站描述">
@@ -197,8 +199,9 @@
     backdrop-filter: blur(10px)!important;
 }
 </style>
-
+```
 # 自定义内容
+```
 <!--延迟加载-->  
 <!--如果要写自定义内容建议都加到这个延迟加载的范围内-->  
 <div id="customize" style="display: none;">
@@ -269,3 +272,4 @@
     }, 200);
 </script>
 </script>
+```
